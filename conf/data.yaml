@@ -1,0 +1,3 @@
+data_root: "singing_database"
+question_path: "hed/qst.hed"
+table_path: "table/kana2phonemes.table"
